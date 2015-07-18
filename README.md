@@ -1,16 +1,2 @@
-# CodePipeline
-
-## First Commit
-
-<pre> echo "# CodePipeline" >> README.md
- git init
- git add README.md
- git commit -m "first commit"
- git remote add origin https://github.com/Douglas-H/CodePipeline.git
- git push -u origin master</pre>
-
-## Second Commit
- 
-<pre> git add README.md
- git commit -m "Second commit"
- git push -u origin master </pre> 
+# aws-codepipeline-jenkins-aws-codedeploy_linux
+Use this sample when creating a four-stage pipeline in AWS CodePipeline while following the Four Stage Pipeline Tutorial. http://docs.aws.amazon.com/codepipeline/latest/userguide/getting-started-4.html
